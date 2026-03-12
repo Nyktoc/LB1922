@@ -1,0 +1,10 @@
+os.name=Windows 11
+java.version=17
+selenide.version=7.3.1
+junit.version=5.10.0
+allure.version=2.25.0
+browser=Chrome
+baseUrl=https://log.finalsurge.com
+framework=JUnit5
+student=Губанова Ульяна
+group=LB1922
